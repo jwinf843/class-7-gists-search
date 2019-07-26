@@ -1,5 +1,5 @@
 # from gist_search.utils import get_gists
-from utils import get_gists
+# from utils import get_gists
 
 def search_gists(username, description=None, file_name=None, ID=None, url=None):
     if not description and not file_name:
